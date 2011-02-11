@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:dxp='http://schemas.google.com/analytics/2009' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'>
+	<id>http://www.google.com/analytics/feeds/data?ids=ga:XXXXXX&amp;dimensions=ga:pagePath&amp;metrics=ga:visits&amp;filters=ga:pagePath%3D~anunt%5C?id%3D*&amp;start-date=2011-02-03&amp;end-date=2011-02-10</id>
+	<updated>2011-02-10T15:59:59.999-08:00</updated>
+	<title type='text'>Google Analytics Data for Profile 31087454</title>
+	<link rel='self' type='application/atom+xml' href='https://www.google.com/analytics/feeds/data?max-results=5&amp;sort=-ga%3Avisits&amp;end-date=2011-02-10&amp;start-date=2011-02-03&amp;metrics=ga%3Avisits&amp;ids=ga%XXXXXX&amp;dimensions=ga%3ApagePath&amp;filters=ga%3ApagePath%3D%7Eanunt%5C%3Fid%3D*'/>
+	<link rel='next' type='application/atom+xml' href='https://www.google.com/analytics/feeds/data?start-index=6&amp;max-results=5&amp;sort=-ga%3Avisits&amp;end-date=2011-02-10&amp;start-date=2011-02-03&amp;metrics=ga%3Avisits&amp;ids=ga%XXXXXX&amp;dimensions=ga%3ApagePath&amp;filters=ga%3ApagePath%3D%7Eanunt%5C%3Fid%3D*'/>
+	<author>
+		<name>Google Analytics</name>
+	</author>
+	<generator version='1.0'>Google Analytics</generator>
+	<openSearch:totalResults>179</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+	<dxp:aggregates>
+		<dxp:metric confidenceInterval='0.0' name='ga:visits' type='integer' value='544'/>
+	</dxp:aggregates>
+	<dxp:containsSampledData>false</dxp:containsSampledData>
+	<dxp:dataSource>
+		<dxp:property name='ga:profileId' value='XXXXXX'/>
+		<dxp:property name='ga:webPropertyId' value='XXXXXX'/>
+		<dxp:property name='ga:accountName' value='XXXXXX'/>
+		<dxp:tableId>ga:XXXXXX</dxp:tableId>
+		<dxp:tableName>XXXXXX</dxp:tableName>
+	</dxp:dataSource>
+	<dxp:endDate>2011-02-10</dxp:endDate>
+	<dxp:startDate>2011-02-03</dxp:startDate>
+	<entry>
+		<id>http://www.google.com/analytics/feeds/data?ids=ga:XXXXXX&amp;ga:pagePath=/anunt?id%3D1347&amp;filters=ga:pagePath%3D~anunt%5C?id%3D*&amp;start-date=2011-02-03&amp;end-date=2011-02-10</id>
+		<updated>2011-02-09T16:00:00.001-08:00</updated>
+		<title type='text'>ga:pagePath=/anunt?id=1347</title>
+		<link rel='alternate' type='text/html' href='http://www.google.com/analytics'/>
+		<dxp:dimension name='ga:pagePath' value='/anunt?id=1347'/>
+		<dxp:metric confidenceInterval='0.0' name='ga:visits' type='integer' value='21'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/analytics/feeds/data?ids=ga:XXXXXX&amp;ga:pagePath=/anunt?id%3D1753&amp;filters=ga:pagePath%3D~anunt%5C?id%3D*&amp;start-date=2011-02-03&amp;end-date=2011-02-10</id>
+		<updated>2011-02-09T16:00:00.001-08:00</updated>
+		<title type='text'>ga:pagePath=/anunt?id=1753</title>
+		<link rel='alternate' type='text/html' href='http://www.google.com/analytics'/>
+		<dxp:dimension name='ga:pagePath' value='/anunt?id=1753'/>
+		<dxp:metric confidenceInterval='0.0' name='ga:visits' type='integer' value='19'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/analytics/feeds/data?ids=ga:XXXXXX&amp;ga:pagePath=/anunt?id%3D1658&amp;filters=ga:pagePath%3D~anunt%5C?id%3D*&amp;start-date=2011-02-03&amp;end-date=2011-02-10</id>
+		<updated>2011-02-09T16:00:00.001-08:00</updated>
+		<title type='text'>ga:pagePath=/anunt?id=1658</title>
+		<link rel='alternate' type='text/html' href='http://www.google.com/analytics'/>
+		<dxp:dimension name='ga:pagePath' value='/anunt?id=1658'/>
+		<dxp:metric confidenceInterval='0.0' name='ga:visits' type='integer' value='18'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/analytics/feeds/data?ids=ga:XXXXXX&amp;ga:pagePath=/anunt?id%3D1630&amp;filters=ga:pagePath%3D~anunt%5C?id%3D*&amp;start-date=2011-02-03&amp;end-date=2011-02-10</id>
+		<updated>2011-02-09T16:00:00.001-08:00</updated>
+		<title type='text'>ga:pagePath=/anunt?id=1630</title>
+		<link rel='alternate' type='text/html' href='http://www.google.com/analytics'/>
+		<dxp:dimension name='ga:pagePath' value='/anunt?id=1630'/>
+		<dxp:metric confidenceInterval='0.0' name='ga:visits' type='integer' value='15'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/analytics/feeds/data?ids=ga:XXXXXX&amp;ga:pagePath=/anunt?id%3D1755&amp;filters=ga:pagePath%3D~anunt%5C?id%3D*&amp;start-date=2011-02-03&amp;end-date=2011-02-10</id>
+		<updated>2011-02-09T16:00:00.001-08:00</updated>
+		<title type='text'>ga:pagePath=/anunt?id=1755</title>
+		<link rel='alternate' type='text/html' href='http://www.google.com/analytics'/>
+		<dxp:dimension name='ga:pagePath' value='/anunt?id=1755'/>
+		<dxp:metric confidenceInterval='0.0' name='ga:visits' type='integer' value='15'/>
+	</entry>
+</feed>
