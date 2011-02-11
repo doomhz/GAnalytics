@@ -6,6 +6,7 @@
  * @link http://dumitruglavan.com
  * @version 1.0
  *
+ * Examples and documentation at: https://github.com/doomhz/GAnalytics
  * Find source on GitHub: https://github.com/doomhz/GAnalytics
  *
  * Dual licensed under the MIT and GPL licenses:
